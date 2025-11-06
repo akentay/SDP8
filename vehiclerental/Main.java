@@ -7,7 +7,7 @@ public class Main {
         RentalService service = new RentalService();
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("");
+        System.out.println("Vehicle Rental Service");
 
         while (true) {
             System.out.println("\nMenu:");
